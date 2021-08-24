@@ -1,0 +1,25 @@
+.row {
+    background-color: rgb(234, 236, 239);
+    min-height: 536px;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+.title {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 102px;
+}
+
+.registration {
+    margin: auto;
+}
+
+.card {
+    max-width: 400px;
+    margin-right: 50px;
+}
+
+.username_input {
+    margin: 10px;
+}
